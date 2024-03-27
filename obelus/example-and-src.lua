@@ -64,7 +64,7 @@ do
 			Parent = cre,
 			DisplayOrder = 8888,
 			IgnoreGuiInset = true,
-			Name = "obleus",
+			Name = "tracists.cc",
 			ZIndexBehavior = "Global",
 			ResetOnSpawn = false
 		}})
@@ -115,7 +115,7 @@ do
 			Size = UDim2.new(1, -16, 0, 15),
 			Font = "Code",
 			RichText = true,
-			Text = info.Name or info.name or "obleus",
+			Text = info.Name or info.name or "tracists.cc",
 			TextColor3 = Color3.fromRGB(142, 142, 142),
 			TextStrokeTransparency = 0.5,
 			TextSize = 13,
